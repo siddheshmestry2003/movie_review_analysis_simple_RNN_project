@@ -7,3 +7,4 @@ matplotlib
 streamlit
 seaborn
 sciker
+tensorflow==2.15.0
