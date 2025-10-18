@@ -1,4 +1,4 @@
-tensorflow
+
 pandas
 numpy
 scikit-learn
@@ -7,4 +7,5 @@ matplotlib
 streamlit
 seaborn
 sciker
+
 tensorflow==2.15.0
